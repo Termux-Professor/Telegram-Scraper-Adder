@@ -17,8 +17,8 @@ def banner():
 {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
               Version : 1.01
- {re}Subscribe Termux Professor on Youtube.
-   {cy}www.youtube.com/c/TermuxProfessorYT
+ {re}Subscribe Termux Professor.
+   {cy}www.youtube.com/c/TermuxProfessor
         """)
 
 cpass = configparser.RawConfigParser()
